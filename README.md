@@ -1,6 +1,6 @@
 <h1 style="text-align:center">Chat Application</h1>
 
-<p>Chat with creating rooms</p>
+<p>Chat application it's creating for room and joining multiple members in group of chats</p>
 
 <h2> 💻 Technologies used</h2>
 
